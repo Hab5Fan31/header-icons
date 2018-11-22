@@ -67,3 +67,24 @@ a:hover {
   padding: .5em 0;
   border-color: #a63f38;
 }
+
+.cereal {
+  paddin: .5em 0;
+  border-right: 1px solid;
+  border-left: 1px solid;
+  border-color: #a63f38;
+}
+
+.legumes {
+  padding: .5em 0;
+  border-color: #a63f38;
+}
+
+.top {
+  display: flex;
+  border-bottom: 1px solid;
+  border-color: #a63f38;
+  align-items: center;
+  justify-content: space-between;
+  padding: .5em 4rem;
+}
