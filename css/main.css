@@ -69,7 +69,7 @@ a:hover {
 }
 
 .cereal {
-  paddin: .5em 0;
+  padding: .5em 0;
   border-right: 1px solid;
   border-left: 1px solid;
   border-color: #a63f38;
